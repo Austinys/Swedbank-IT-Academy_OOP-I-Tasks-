@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7344bfae-f5f9-447e-ba39-927b87f6a1c1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Java OOP Basics 1_task2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java OOP Basics 1_task4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itacademy/java/oop/basics/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itacademy/java/oop/basics/Password.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itacademy/java/oop/basics/PasswordValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itacademy/java/oop/basics/ValidationException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java OOP Basics 1_task1/src/com/itacademy/java/oop/basics/ContractType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java OOP Basics 1_task1/src/com/itacademy/java/oop/basics/ContractType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java OOP Basics 1_task1/src/com/itacademy/java/oop/basics/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java OOP Basics 1_task1/src/com/itacademy/java/oop/basics/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java OOP Basics 1_task1/src/com/itacademy/java/oop/basics/EmployeeManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java OOP Basics 1_task1/src/com/itacademy/java/oop/basics/EmployeeManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java OOP Basics 1_task2/src/com/itacademy/java/oop/basics/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java OOP Basics 1_task2/src/com/itacademy/java/oop/basics/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java OOP Basics 1_task2/src/com/itacademy/java/oop/basics/Loan.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java OOP Basics 1_task2/src/com/itacademy/java/oop/basics/Loan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java OOP Basics 1_task2/src/com/itacademy/java/oop/basics/LoansApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java OOP Basics 1_task2/src/com/itacademy/java/oop/basics/LoansApplication.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26CQ2TH1VlSS6gH6qbHExbmeIz4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java OOP Basics 1_task2" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itacademy.java.oop.basics.Main" />
+      <module name="Java OOP Basics 1_task4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itacademy.java.oop.basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7344bfae-f5f9-447e-ba39-927b87f6a1c1" name="Changes" comment="" />
+      <created>1646924882954</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646924882954</updated>
+    </task>
+    <servers />
+  </component>
+</project>
