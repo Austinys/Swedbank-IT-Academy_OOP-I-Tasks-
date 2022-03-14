@@ -1,7 +1,7 @@
 package com.itacademy.java.oop.basics;
 
 public class Password {
-    private String password;
+    private final String password;
 
     public Password(String password) {
         this.password = password;
